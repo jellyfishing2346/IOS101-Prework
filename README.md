@@ -33,4 +33,6 @@ EcoTrack would be a comprehensive sustainability app designed to help users redu
     Community feature to connect with like-minded individuals and share tips
     Augmented reality feature to visualize potential environmental improvements in the user's surroundings
 
+Loom video to demonstrate the features: https://www.loom.com/share/ef7dd411a5e6483fa307955831b7a439
+
 The app would aim to make sustainability accessible and engaging, turning eco-friendly choices into a fun, rewarding experience for users.
